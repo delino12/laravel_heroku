@@ -1,2 +1,2 @@
-# laravel_heroku
+# Laravel Heroku application
 Laravel Heroku application
